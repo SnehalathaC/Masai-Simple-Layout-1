@@ -1,4 +1,3 @@
-# Masai-Simple-Layout-1
 
 <!DOCTYPE html>
 <html lang="en">
